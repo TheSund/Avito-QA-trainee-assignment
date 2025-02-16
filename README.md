@@ -4,4 +4,4 @@
 ## Задание 2
 Тест-кейсы описаны в файле [TESTCASES.md](https://github.com/TheSund/Avito-QA-trainee-assignment/blob/main/TESTCASES.md)
 
-Найденные баги описаны в файле [BUGS.md]()
+Найденные баги описаны в файле [BUGS.md](https://github.com/TheSund/Avito-QA-trainee-assignment/blob/main/BUGS.md)
