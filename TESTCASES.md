@@ -9,7 +9,7 @@
 4. Ввести данные:
 ```
 {
-  "sellerID": 1234345231,
+  "sellerID": 6934420,
   "name": "Test Item",
   "price": 1,
   "statistics":{
@@ -50,7 +50,7 @@
         "id": "ID срзданного объявления",
         "name": "Test Item",
         "price": 1,
-        "sellerId": 1234345231,
+        "sellerId": 6934420,
         "statistics": {
             "contacts": 3,
             "likes": 2,
@@ -100,7 +100,7 @@
         "id": "dsdsd",
         "name": "cfb5cb54-77ba-4f9a-b746-86ccdc25d8b3",
         "price": 1,
-        "sellerId": 1234345231,
+        "sellerId": 6934420,
         "statistics": {
             "contacts": 3,
             "likes": 123,
