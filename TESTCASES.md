@@ -11,7 +11,7 @@
 {
   "sellerID": 6934420,
   "name": "Test Item",
-  "price": 1,
+  "price": 2,
   "statistics":{
     "contacts":3,
     "likes":2,
@@ -47,9 +47,9 @@
 [
     {
         "createdAt": "*время создания объявления*",
-        "id": "ID срзданного объявления",
+        "id": "*ID созданного объявления*",
         "name": "Test Item",
-        "price": 1,
+        "price": 2,
         "sellerId": 6934420,
         "statistics": {
             "contacts": 3,
@@ -97,9 +97,9 @@
 [
     {
         "createdAt": "2025-02-13 11:10:55.02656 +0300 +0300",
-        "id": "ID срзданного объявления",
+        "id": "*ID созданного объявления*",
         "name": "Test Item",
-        "price": 1,
+        "price": 2,
         "sellerId": 6934420,
         "statistics": {
             "contacts": 3,
