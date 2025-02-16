@@ -97,14 +97,14 @@
 [
     {
         "createdAt": "2025-02-13 11:10:55.02656 +0300 +0300",
-        "id": "dsdsd",
-        "name": "cfb5cb54-77ba-4f9a-b746-86ccdc25d8b3",
+        "id": "ID срзданного объявления",
+        "name": "Test Item",
         "price": 1,
         "sellerId": 6934420,
         "statistics": {
             "contacts": 3,
-            "likes": 123,
-            "viewCount": 12
+            "likes": 2,
+            "viewCount": 4
         }
     },
 ...
